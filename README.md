@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Fariz Husain Albar</h1>
 
 <p align="center">
-  💻 Front-End Web Developer • 🌍 Based in Indonesia <br>
+  💻 Front-End Web Developer • 🌍 Based in Yogyakarta, Indonesia <br>
   Passionate about building meaningful digital solutions and exploring data-driven design
 </p>
 
