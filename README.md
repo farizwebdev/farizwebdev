@@ -15,19 +15,62 @@ Currently, I’m developing my skills to become a **Full-Stack Web Developer** c
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack & Tools
 
-**Frontend Development:**  
-`HTML` • `CSS` • `Tailwind CSS` • `JavaScript`  
-
-**Backend Development:**  
-`PHP` • `MySQL`  
-
-**Design Tools:**  
-`Figma` • `Canva` • `Inkscape`  
-
-**Other Skills:**  
-Project Management • Leadership • Team Collaboration • Problem Solving  
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" />
+      <br>PHP
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VSCode" />
+      <br>VS Code
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" />
+      <br>Postman
+    </td>
+  </tr>
+</table> 
 
 ---
 
@@ -86,10 +129,6 @@ A simple CMS-based blog for writing and managing articles with responsive design
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github.com/farizwebdev/farizwebdev/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 <p align="center">
   ⭐ <i>“Code with purpose, design with empathy, and learn endlessly.”</i> ⭐
