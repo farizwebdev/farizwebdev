@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Fariz Husain Albar</h1>
+<h1 align="center">Hi, I'm Fariz Husain Albar</h1>
 
 <p align="center">
   💻 Front-End Web Developer • 🌍 Based in Yogyakarta, Indonesia <br>
