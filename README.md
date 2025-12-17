@@ -17,7 +17,7 @@ Currently, I’m developing my skills to become a **Full-Stack Web Developer** c
 
 ## 🛠 Tech Stack & Tools
 
-<table align="left">
+<table align="center">
   <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
@@ -64,10 +64,6 @@ Currently, I’m developing my skills to become a **Full-Stack Web Developer** c
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
       <br>GitHub
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" />
-      <br>Postman
     </td>
   </tr>
 </table> 
