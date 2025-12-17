@@ -17,7 +17,7 @@ Currently, I’m developing my skills to become a **Full-Stack Web Developer** c
 
 ## 🛠 Tech Stack & Tools
 
-<table align="center">
+<table align="left">
   <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
