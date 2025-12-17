@@ -88,5 +88,9 @@ A simple CMS-based blog for writing and managing articles with responsive design
 ---
 
 <p align="center">
+  <img src="https://github.com/farizwebdev/farizwebdev/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
   ⭐ <i>“Code with purpose, design with empathy, and learn endlessly.”</i> ⭐
 </p>
