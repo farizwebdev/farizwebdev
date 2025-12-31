@@ -1,11 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=55&pause=1000&color=800000&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+Fariz+Husain+Albar" alt="Name Title" />
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=22&pause=1000&color=A52A2A&center=true&vCenter=true&width=500&lines=Informatics+Student;Frontend+Web+Developer;Exploring+IoT+%26+Python" alt="Subtitle" />
-  </a>
-  
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:800000,100:200000&height=220&section=header&text=Fariz%20Husain%20Albar&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Informatics%20Student%20%7C%20Web%20Dev%20%7C%20IoT%20Enthusiast&descAlignY=65&descAlign=50" alt="Header Slice Maroon" width="100%"/>
 </div>
 
 <p align="center">
