@@ -65,11 +65,6 @@ Moving into **2026**, my focus is bridging the gap between **functional code** a
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farizwebdev&theme=tokyonight" width="45%">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farizwebdev&theme=tokyonight" width="45%">
 </p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farizwebdev&theme=tokyonight" width="45%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=farizwebdev&theme=tokyonight" width="45%">
-</p>
-
 
 ---
 
