@@ -1,5 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:800000,100:200000&height=220&section=header&text=Fariz%20Husain%20Albar&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Informatics%20Student%20%7C%20Web%20Dev%20%7C%20IoT%20Enthusiast&descAlignY=65&descAlign=50" alt="Header Slice Maroon" width="100%"/>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=800000&background=00000000&center=true&vCenter=true&width=500&lines=Hi,+I'm+Fariz+Husain+Albar;>+Informatics+Student;>+Frontend+Web+Developer;>+IoT+%26+Security+Enthusiast" alt="Terminal Text" />
+  </a>
+
+  <br>
+  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="500" height="2">
+
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/farizwebdev">
+    <img src="https://komarev.com/ghpvc/?username=farizwebdev&label=Profile%20Views&color=800000&style=for-the-badge" alt="Views" />
+  </a>
 </div>
 
 ---
