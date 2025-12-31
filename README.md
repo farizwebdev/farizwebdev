@@ -24,11 +24,15 @@
 
 Hi there! I'm **Fariz**, an Informatics student based in **Yogyakarta, Indonesia**.
 
-Moving into **2026**, my focus is bridging the gap between **functional code** and **aesthetic design**. While I specialize in Front-End Development, I am actively expanding my horizon into IoT integrations and Data Analysis using Python.
+I am passionately transitioning into a **Full-Stack Web Developer** role. My development philosophy is shaped by a holistic background: I don't just write code; I understand the *users* and the *data* behind it.
 
-* **Currently working on:** Advanced Web Apps & IoT Projects (ESP32/Blynk).
-* **Learning in 2026:** Python for Data Science, Network Security, & React Native.
-* **Fun fact:** I love creating designs that are not just usable, but delightful.
+My journey is backed by proven competence. I honed my analytical skills by achieving **Intermediate Level** in Data Science & UI/UX Design at **IDCamp 2023**. Furthermore, my dedication to crafting exceptional user experiences was recognized when I won the **UI/UX Design Competition at IOFEST 2025** (Universitas Tarumanagara).
+
+This unique blend of skills allows me to build web applications that are not only robust and functional but also visually compelling and user-friendly.
+
+* **Currently focusing on:** Building end-to-end web solutions (Front-End & Back-End).
+* **Learning in 2026:** Advanced Backend Architecture, Database Optimization, & System Security.
+* **Fun fact:** I code with the logic of a Data Scientist and design with the empathy of an Award-Winning UI/UX Designer.
 
 ---
 
