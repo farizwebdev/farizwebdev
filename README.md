@@ -56,12 +56,10 @@ Moving into **2026**, my focus is bridging the gap between **functional code** a
 
 ---
 
-## 🏆 Achievements
+## Contribution 3D
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=farizwebdev&theme=tokyonight&no-frame=true&column=7&margin-w=15" width="100%" alt="Trophies" />
-  </a>
+  <img src="https://github-readme-isometric-tiles.vercel.app/api?username=farizwebdev&theme=tokyonight&reduce_margin=true" width="100%" alt="Isometric Tiles" />
 </div>
 
 ---
