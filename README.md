@@ -1,12 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:800000,100:200000&height=220&section=header&text=Fariz%20Husain%20Albar&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Informatics%20Student%20%7C%20Web%20Dev%20%7C%20IoT%20Enthusiast&descAlignY=65&descAlign=50" alt="Header Slice Maroon" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=800000&height=200&section=header&text=Fariz%20Husain%20Albar&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Building%20Digital%20Experiences%20in%202026&descAlignY=60&descAlign=50" alt="Header Cylinder Maroon" width="100%"/>
 </div>
-
-<p align="center">
-  <a href="https://github.com/farizwebdev">
-    <img src="https://komarev.com/ghpvc/?username=farizwebdev&label=Profile%20Views&color=A52A2A&style=flat" alt="Profile Views" />
-  </a>
-</p>
 
 ---
 
