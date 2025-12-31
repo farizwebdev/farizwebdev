@@ -84,7 +84,7 @@ Now, I combine these skills to build web applications that are robust, data-driv
   <a href="mailto:farizabar80@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-A52A2A?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/farizhusainalbar">
+  <a href="https://www.linkedin.com/in/fariz-husain-albar/">
     <img src="https://img.shields.io/badge/LinkedIn-A52A2A?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/fariz.webdev">
