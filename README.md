@@ -56,11 +56,20 @@ Moving into **2026**, my focus is bridging the gap between **functional code** a
 
 ---
 
-## Contribution 3D
+## GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-isometric-tiles.vercel.app/api?username=farizwebdev&theme=tokyonight&reduce_margin=true" width="100%" alt="Isometric Tiles" />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farizwebdev&theme=2077" alt="Profile Details" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=farizwebdev&theme=2077" width="48%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farizwebdev&theme=2077" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farizwebdev&theme=2077" width="100%">
+</p>
 
 ---
 
