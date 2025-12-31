@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:A52A2A,100:800000&height=200&section=header&text=Fariz%20Husain%20Albar&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Building%20Digital%20Experiences%20in%202026&descAlignY=60&descAlign=50" alt="Header Maroon" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=55&pause=1000&color=800000&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+Fariz+Husain+Albar" alt="Name Title" />
   
-  <br>
-
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=800000&center=true&vCenter=true&width=435&lines=Informatics+Student+%40+UIN+Sunan+Kalijaga;Frontend+Web+Developer;UI%2FUX+Design+Enthusiast;Exploring+IoT+%26+Python" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=22&pause=1000&color=A52A2A&center=true&vCenter=true&width=500&lines=Informatics+Student;Frontend+Web+Developer;Exploring+IoT+%26+Python" alt="Subtitle" />
   </a>
+  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <p align="center">
