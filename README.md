@@ -1,131 +1,88 @@
-<h1 align="center">Hi, I'm Fariz Husain Albar</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Fariz%20Husain%20Albar&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Building%20Digital%20Experiences%20in%202026&descAlignY=55&descAlign=50" alt="Header" width="100%"/>
+  
+  <br>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=333333&center=true&vCenter=true&width=435&lines=Informatics+Student+%40+UIN+Sunan+Kalijaga;Frontend+Web+Developer;UI%2FUX+Design+Enthusiast;Exploring+IoT+%26+Python" alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="center">
-  💻 Front-End Web Developer • 🌍 Based in Yogyakarta, Indonesia <br>
-  Passionate about building meaningful digital solutions and exploring data-driven design
+  <a href="https://github.com/farizwebdev">
+    <img src="https://komarev.com/ghpvc/?username=farizwebdev&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+  </a>
 </p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm an Informatics student at **UIN Sunan Kalijaga Yogyakarta** with a deep interest in **UI/UX Design**, **Web Development**, and **Data Analysis**.  
-I believe that great interfaces and data-driven decisions can create impactful user experiences.  
-Currently, I’m developing my skills to become a **Full-Stack Web Developer** capable of building end-to-end digital solutions.
+Hi there! I'm **Fariz**, an Informatics student based in **Yogyakarta, Indonesia**.
 
----
+Moving into **2026**, my focus is bridging the gap between **functional code** and **aesthetic design**. While I specialize in Front-End Development, I am actively expanding my horizon into IoT integrations and Data Analysis using Python.
 
-## 🛠 Tech Stack & Tools
-
-<table align="center">
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" />
-      <br>CSS3
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" />
-      <br>PHP
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" />
-      <br>Figma
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VSCode" />
-      <br>VS Code
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
-      <br>GitHub
-    </td>
-  </tr>
-</table> 
+* 🔭 **Currently working on:** Advanced Web Apps & IoT Projects (ESP32/Blynk).
+* 🌱 **Learning in 2026:** Python for Data Science, Network Security, & React Native.
+* ⚡ **Fun fact:** I love creating designs that are not just usable, but delightful.
 
 ---
 
-## Featured Projects
+## 🛠 Tech Stack
 
-### [Mangrovolution Education](https://mangrovolution-edu.netlify.app/)
-Front-End Developer | Sept 2025 – Present  
-An educational web platform that raises awareness about mangrove ecosystems.  
-> Built with **HTML**, **Tailwind CSS**, and **JavaScript** to ensure responsive and interactive design.
+<div align="center">
 
----
+**Languages**<br>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,java" />
 
-### [Setarain](https://setarain.netlify.app/)
-UI/UX Designer | Apr 2025 – Jun 2025  
-A donation platform connecting donors with educational aid communities for remote and disabled people.  
-> Designed full user flow and high-fidelity prototypes in **Figma**, focusing on inclusivity and smooth UX.
+**Frameworks & Libraries**<br>
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,jquery" />
 
----
+**Tools & Platforms**<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,mysql,postman,arduino" />
 
-### [JogoAmal Digital](https://jogoamaldigital.free.nf/)
-Full-Stack Developer | May 2025 – Jun 2025  
-A web-based transparent financial management system for mosques.  
-> Developed with **HTML**, **Tailwind CSS**, **JavaScript**, **PHP OOP**, and **MySQL** for CRUD operations.
+</div>
 
 ---
 
-### [Personal Blog Website](https://fariz-blog.42web.io/?i=1)
-Full-Stack Developer | Aug 2023 – Sept 2023  
-A simple CMS-based blog for writing and managing articles with responsive design.  
-> Built from scratch using **PHP** and **MySQL**.
+## 🚀 Featured Projects
+
+| Project | Role | Tech Stack | Description |
+| :--- | :---: | :---: | :--- |
+| **[Mangrovolution Edu](https://mangrovolution-edu.netlify.app/)** | Front-End | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | Educational platform raising awareness for mangrove ecosystems. |
+| **[Setarain](https://setarain.netlify.app/)** | UI/UX | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | Donation platform connecting donors with disabled communities. |
+| **[JogoAmal Digital](https://jogoamaldigital.free.nf/)** | Full-Stack | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | Transparent financial management system for mosques. |
+| **IoT Fire Alarm** | Developer | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![IoT](https://img.shields.io/badge/-IoT-green?style=flat-square) | Smart alarm system using ESP32, Flame Sensor & Blynk. |
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Analytics
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farizwebdev&theme=tokyonight" width="100%">
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=farizwebdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farizwebdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="48%" />
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+  <a href="mailto:farizabar80@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/farizhusainalbar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/fariz.webdev">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
+
+<br>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farizwebdev&theme=tokyonight" alt="Profile Details" width="90%">
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farizwebdev&theme=tokyonight" width="45%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farizwebdev&theme=tokyonight" width="45%">
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farizwebdev&theme=tokyonight" width="45%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=farizwebdev&theme=tokyonight" width="45%">
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="mailto:farizabar80@gmail.com"><img src="https://img.shields.io/badge/Email-farizabar80%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/farizhusainalbar"><img src="https://img.shields.io/badge/LinkedIn-Fariz%20Husain%20Albar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/fariz.webdev"><img src="https://img.shields.io/badge/Instagram-%40fariz.webdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">
-  ⭐ <i>“Code with purpose, design with empathy, and learn endlessly.”</i> ⭐
+  <i>"Code with purpose, design with empathy."</i> <br>
+  Last Updated: 2026
 </p>
