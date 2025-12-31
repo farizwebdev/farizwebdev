@@ -22,17 +22,21 @@
 
 ## About Me
 
-Hi there! I'm **Fariz**, an Informatics student based in **Yogyakarta, Indonesia**.
+## About Me
 
-I am passionately transitioning into a **Full-Stack Web Developer** role. My development philosophy is shaped by a holistic background: I don't just write code; I understand the *users* and the *data* behind it.
+Hi there! I'm **Fariz**, an Informatics student based in **Yogyakarta, Indonesia**. 👋
 
-My journey is backed by proven competence. I honed my analytical skills by achieving **Intermediate Level** in Data Science & UI/UX Design at **IDCamp 2023**. Furthermore, my dedication to crafting exceptional user experiences was recognized when I won the **UI/UX Design Competition at IOFEST 2025** (Universitas Tarumanagara).
+Currently, I'm shifting my gears to become a **Full-Stack Web Developer**. I believe that building a great website isn't just about writing code it's about understanding the **users** (UI/UX) and the **data** behind it.
 
-This unique blend of skills allows me to build web applications that are not only robust and functional but also visually compelling and user-friendly.
+I love exploring different fields to strengthen my developer intuition:
+* **Design Sense:** Validated by winning the **UI/UX Design Competition at IOFEST 2025** (Universitas Tarumanagara).
+* **Analytical Skill:** Sharpened by reaching the **Intermediate Level in Data Science** at **IDCamp 2023**.
 
-* **Currently focusing on:** Building end-to-end web solutions (Front-End & Back-End).
+Now, I combine these skills to build web applications that are robust, data-driven, and easy to use.
+
+* **Currently working on:** Building end-to-end web solutions (Front-End & Back-End).
 * **Learning in 2026:** Advanced Backend Architecture, Database Optimization, & System Security.
-* **Fun fact:** I code with the logic of a Data Scientist and design with the empathy of an Award-Winning UI/UX Designer.
+* **Fun fact:** I write code with a Data Scientist's logic and style it with an Award-Winning Designer's taste.
 
 ---
 
