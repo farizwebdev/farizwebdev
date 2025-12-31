@@ -16,19 +16,19 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Hi there! I'm **Fariz**, an Informatics student based in **Yogyakarta, Indonesia**.
 
 Moving into **2026**, my focus is bridging the gap between **functional code** and **aesthetic design**. While I specialize in Front-End Development, I am actively expanding my horizon into IoT integrations and Data Analysis using Python.
 
-* 🔭 **Currently working on:** Advanced Web Apps & IoT Projects (ESP32/Blynk).
-* 🌱 **Learning in 2026:** Python for Data Science, Network Security, & React Native.
-* ⚡ **Fun fact:** I love creating designs that are not just usable, but delightful.
+* **Currently working on:** Advanced Web Apps & IoT Projects (ESP32/Blynk).
+* **Learning in 2026:** Python for Data Science, Network Security, & React Native.
+* **Fun fact:** I love creating designs that are not just usable, but delightful.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -45,7 +45,7 @@ Moving into **2026**, my focus is bridging the gap between **functional code** a
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Role | Tech Stack | Description |
 | :--- | :---: | :---: | :--- |
@@ -56,18 +56,24 @@ Moving into **2026**, my focus is bridging the gap between **functional code** a
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farizwebdev&theme=tokyonight" width="100%">
+  
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=farizwebdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farizwebdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="48%" />
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=farizwebdev&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farizwebdev&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+  </a>
 </div>
 
 ---
 
-## 🌐 Let's Connect
+## Let's Connect
 
 <div align="center">
   <a href="mailto:farizabar80@gmail.com">
@@ -84,5 +90,4 @@ Moving into **2026**, my focus is bridging the gap between **functional code** a
 <br>
 <p align="center">
   <i>"Code with purpose, design with empathy."</i> <br>
-  Last Updated: 2026
 </p>
