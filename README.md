@@ -58,18 +58,14 @@ Moving into **2026**, my focus is bridging the gap between **functional code** a
 
 ## GitHub Analytics
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farizwebdev&theme=tokyonight" width="100%">
-  
-  <br><br>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farizwebdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-  <a href="https://github.com/farizwebdev/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=farizwebdev&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/farizwebdev/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farizwebdev&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=farizwebdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farizwebdev&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Langs" />
+</p>
 
 ---
 
