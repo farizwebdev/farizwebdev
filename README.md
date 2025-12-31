@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:A52A2A,100:600000&height=180&section=header&text=Fariz%20Husain%20Albar&fontSize=65&fontColor=ffffff&fontAlignY=45&animation=fadeIn" alt="Header Maroon Gradasi" width="100%"/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Informatics+Student+at+UIN+Sunan+Kalijaga;Frontend+Web+Developer;UI%2FUX+Designer;Data+Scientist+Enthusiast" alt="Typing White" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;UI%2FUX+Designer;Data+Scientist+Enthusiast" alt="Typing White" />
   </a>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="500" height="1" style="filter: invert(1);">
