@@ -63,10 +63,10 @@ Moving into **2026**, my focus is bridging the gap between **functional code** a
   
   <br><br>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/farizwebdev/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=farizwebdev&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/farizwebdev/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farizwebdev&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
   </a>
 </div>
