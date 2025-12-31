@@ -56,12 +56,20 @@ Moving into **2026**, my focus is bridging the gap between **functional code** a
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=farizwebdev&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farizwebdev&theme=tokyonight" alt="Profile Details" width="90%">
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farizwebdev&theme=tokyonight" width="45%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farizwebdev&theme=tokyonight" width="45%">
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farizwebdev&theme=tokyonight" width="45%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=farizwebdev&theme=tokyonight" width="45%">
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farizwebdev&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farizwebdev&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
