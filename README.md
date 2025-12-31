@@ -56,18 +56,10 @@ Moving into **2026**, my focus is bridging the gap between **functional code** a
 
 ---
 
-## GitHub Analytics
+## 🔥 Coding Streak
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=farizwebdev&theme=tokyonight&no-frame=true&column=7&margin-w=15" width="100%" alt="Trophies" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farizwebdev&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farizwebdev&theme=tokyonight&hide_border=true&fire=EB4F27" alt="GitHub Streak" />
 </div>
 
 
