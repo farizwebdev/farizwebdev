@@ -1,25 +1,23 @@
 <div align="center">
-  
-  <h1 align="center" style="font-size: 50px; color: #800000;">
-    Fariz Husain Albar
-  </h1>
 
-  <h3>
-    Building Digital Experiences & Exploring IoT
-  </h3>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=800000&text=Fariz%20Husain%20Albar&height=100&fontSize=60" alt="Fariz Husain Albar" />
 
   <br>
 
-  <a href="mailto:farizabar80@gmail.com">
-    <img src="https://img.shields.io/badge/Email-800000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/farizhusainalbar">
-    <img src="https://img.shields.io/badge/LinkedIn-800000?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/farizwebdev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=800000&center=true&vCenter=true&width=600&lines=Informatics+Student+%40+UIN+Sunan+Kalijaga;Frontend+Web+Developer;IoT+%26+Security+Enthusiast" alt="Typing Roles" />
   </a>
 
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="500" height="2">
+
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/farizwebdev">
+    <img src="https://komarev.com/ghpvc/?username=farizwebdev&label=Profile%20Views&color=800000&style=for-the-badge" alt="Views" />
+  </a>
 </div>
 
 ---
