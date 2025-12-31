@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Fariz%20Husain%20Albar&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Building%20Digital%20Experiences%20in%202026&descAlignY=55&descAlign=50" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:A52A2A,100:800000&height=200&section=header&text=Fariz%20Husain%20Albar&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Building%20Digital%20Experiences%20in%202026&descAlignY=60&descAlign=50" alt="Header Maroon" width="100%"/>
   
   <br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=333333&center=true&vCenter=true&width=435&lines=Informatics+Student+%40+UIN+Sunan+Kalijaga;Frontend+Web+Developer;UI%2FUX+Design+Enthusiast;Exploring+IoT+%26+Python" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=800000&center=true&vCenter=true&width=435&lines=Informatics+Student+%40+UIN+Sunan+Kalijaga;Frontend+Web+Developer;UI%2FUX+Design+Enthusiast;Exploring+IoT+%26+Python" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
   <a href="https://github.com/farizwebdev">
-    <img src="https://komarev.com/ghpvc/?username=farizwebdev&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=farizwebdev&label=Profile%20Views&color=A52A2A&style=flat" alt="Profile Views" />
   </a>
 </p>
 
@@ -33,13 +33,13 @@ Moving into **2026**, my focus is bridging the gap between **functional code** a
 <div align="center">
 
 **Languages**<br>
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python,java" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,java&theme=light" />
 
 **Frameworks & Libraries**<br>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,jquery" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,jquery&theme=light" />
 
 **Tools & Platforms**<br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,mysql,postman,arduino" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,mysql,postman,arduino&theme=light" />
 
 </div>
 
@@ -59,11 +59,11 @@ Moving into **2026**, my focus is bridging the gap between **functional code** a
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farizwebdev&theme=tokyonight" alt="Profile Details" width="90%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farizwebdev&theme=radical" alt="Profile Details" width="90%">
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farizwebdev&theme=tokyonight" width="45%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farizwebdev&theme=tokyonight" width="45%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farizwebdev&theme=radical" width="45%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farizwebdev&theme=radical" width="45%">
 </p>
 
 ---
@@ -72,17 +72,17 @@ Moving into **2026**, my focus is bridging the gap between **functional code** a
 
 <div align="center">
   <a href="mailto:farizabar80@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-A52A2A?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/farizhusainalbar">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-A52A2A?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/fariz.webdev">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-A52A2A?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
 <br>
 <p align="center">
-  <i>"Code with purpose, design with empathy."</i> <br>
+  ⭐ <i>“Code with purpose, design with empathy.”</i> ⭐
 </p>
