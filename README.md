@@ -23,7 +23,7 @@ Hi there! I'm **Fariz**, an Informatics student based in **Yogyakarta, Indonesia
 Currently, I'm shifting my gears to become a **Full-Stack Web Developer**. I believe that building a great website isn't just about writing code it's about understanding the **users** (UI/UX) and the **data** behind it.
 
 I love exploring different fields to strengthen my developer intuition:
-* **Design Sense:** Validated by winning the **UI/UX Design Competition at IOFEST 2025** (Universitas Tarumanagara).
+* **Design Sense:** Validated by winning the **Website Development Competition at IOFEST 2025** (Universitas Tarumanagara).
 * **Analytical Skill:** Sharpened by reaching the **Intermediate Level in Data Science** at **IDCamp 2023**.
 
 Now, I combine these skills to build web applications that are robust, data-driven, and easy to use.
