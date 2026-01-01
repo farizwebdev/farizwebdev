@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0:FF0000,100:E60000&height=200&section=header&text=Fariz%20Husain%20Albar&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Front%20End%20Web%20Developer&descFontSize=20&descAlignY=65" alt="Header Soft Subtitle" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0:FF0000,100:E60000&height=200&section=header&text=Fariz%20Husain%20Albar&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Front%20End%20Web%20Developer%20||%20Data%20Scientist%20Enthusiast&descFontSize=20&descAlignY=65" alt="Header Soft Subtitle" width="100%"/>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="500" height="1" style="filter: invert(1);">
 
