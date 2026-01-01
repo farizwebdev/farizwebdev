@@ -1,10 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=Fariz%20Husain%20Albar&fontSize=60&fontColor=D90429&fontAlignY=50" alt="Header Transparan" width="100%"/>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;UI%2FUX+Designer;Data+Scientist+Enthusiast" alt="Typing White" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0:FF0000,100:E60000&height=200&section=header&text=Fariz%20Husain%20Albar&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Informatics%20Student%20%7C%20Front%20End%20Web%20Developer&descFontSize=20&descAlignY=65" alt="Header Soft Subtitle" width="100%"/>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="500" height="1" style="filter: invert(1);">
 
