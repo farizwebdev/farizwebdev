@@ -91,8 +91,3 @@ Now, I combine these skills to build web applications that are robust, data-driv
     <img src="https://img.shields.io/badge/Instagram-A52A2A?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
-
-<br>
-<p align="center">
-  ⭐ <i>“Code with purpose, design with empathy.”</i> ⭐
-</p>
