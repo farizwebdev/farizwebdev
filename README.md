@@ -18,7 +18,7 @@
 
 ## About Me
 
-Hi there! I'm **Fariz**, an Informatics student based in **Yogyakarta, Indonesia**. 👋
+Hii there! I'm **Fariz**, an Informatics student based in **Yogyakarta, Indonesia**. 👋
 
 Currently, I'm shifting my gears to become a **Full-Stack Web Developer**. I believe that building a great website isn't just about writing code it's about understanding the **users** (UI/UX) and the **data** behind it.
 
