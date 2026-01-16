@@ -72,61 +72,35 @@ Now, I combine these skills to build web applications that are robust, data-driv
 
 <br>
 
-<div align="center">
+> **1. [Laundry Sepatu Fariz](https://sepatufariz.netlify.app/)**
+>
+> Platform layanan cuci sepatu digital. Pelanggan bisa **Lacak Resi (Tracking)** status cucian secara *real-time*, booking via WhatsApp, dan cek lokasi via Maps.
+> <br>
+> ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-<h2>Laundry Sepatu Fariz</h2>
-<b>Modern Shoe Laundry Platform with Order Tracking</b>
-<br/><br/>
-<a href="https://sepatufariz.netlify.app/">Live Demo</a> • <a href="#">Repository</a>
-<br/><br/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<br/><br/>
-<p align="left">
-Website layanan cuci sepatu kekinian. Pelanggan tidak perlu login ribet, cukup masukkan nomor resi untuk <b>Lacak Status Cucian</b> (Real-time). Terintegrasi langsung dengan WhatsApp untuk pemesanan dan Google Maps untuk lokasi.
-</p>
-<p align="left">
-✅ <b>Fitur Utama:</b> Tracking System, WhatsApp Gateway, Instagram Embed, Responsive Mobile UI.
-</p>
+<br>
 
-<br/>
-<hr/>
-<br/>
+> **2. [Al-Quran Sentiment Analysis](https://github.com/farizwebdev/Day5-dicoding-Analisis_Sentimen)**
+>
+> Proyek Data Science *End-to-End* untuk klasifikasi ulasan aplikasi. Menggunakan algoritma **Logistic Regression** dengan **Akurasi 93%**.
+> <br>
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-<h2>Al-Quran App Sentiment Analysis</h2>
-<b>End-to-End Machine Learning Project</b>
-<br/><br/>
-<a href="https://github.com/farizwebdev/Day5-dicoding-Analisis_Sentimen">View Repository</a>
-<br/><br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<br/><br/>
-<p align="left">
-Sistem cerdas untuk menganalisis opini pengguna aplikasi Al-Quran secara otomatis. Menggunakan teknik <i>Scraping</i> data ulasan, pembersihan teks, dan algoritma Logistic Regression.
-</p>
-<p align="left">
-🚀 <b>Highlight:</b> Mencapai Akurasi Model <b>93%</b> (High Accuracy).
-</p>
+<br>
 
-<br/>
-<hr/>
-<br/>
+> **3. [Mangrovolution Edu](https://mangrovolution-edu.netlify.app/)**
+>
+> Website edukasi interaktif untuk kampanye lingkungan hidup dan pelestarian ekosistem Mangrove.
+> <br>
+> ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-<h2>Mangrovolution Edu</h2>
-<b>Environmental Awareness Platform</b>
-<br/><br/>
-<a href="https://mangrovolution-edu.netlify.app/">Live Demo</a>
-<br/><br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<br/><br/>
-<p align="left">
-Platform edukasi interaktif untuk kampanye pelestarian ekosistem Mangrove. Didesain dengan antarmuka yang ramah pengguna untuk meningkatkan kesadaran lingkungan.
-</p>
+<br>
 
-</div>
+> **4. [Setarain (UI/UX)](https://setarain.netlify.app/)**
+>
+> Desain antarmuka aplikasi donasi inklusif untuk menghubungkan donatur dengan komunitas penyandang disabilitas.
+> <br>
+> ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
