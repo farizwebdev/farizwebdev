@@ -74,33 +74,34 @@ Now, I combine these skills to build web applications that are robust, data-driv
 
 > **1. [Laundry Sepatu Fariz](https://sepatufariz.netlify.app/)**
 >
-> Platform layanan cuci sepatu digital. Pelanggan bisa **Lacak Resi (Tracking)** status cucian secara *real-time*, booking via WhatsApp, dan cek lokasi via Maps.
-> <br>
 > ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+> <br>
+> Platform layanan cuci sepatu digital. Pelanggan bisa **Lacak Resi (Tracking)** status cucian secara *real-time*, booking via WhatsApp, dan cek lokasi via Maps.
+
 
 <br>
 
 > **2. [Al-Quran Sentiment Analysis](https://github.com/farizwebdev/Day5-dicoding-Analisis_Sentimen)**
 >
-> Proyek Data Science *End-to-End* untuk klasifikasi ulasan aplikasi. Menggunakan algoritma **Logistic Regression** dengan **Akurasi 93%**.
-> <br>
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+> <br>
+> Proyek Data Science *End-to-End* untuk klasifikasi ulasan aplikasi. Menggunakan algoritma **Logistic Regression** dengan **Akurasi 93%**.
 
 <br>
 
 > **3. [Mangrovolution Edu](https://mangrovolution-edu.netlify.app/)**
 >
-> Website edukasi interaktif untuk kampanye lingkungan hidup dan pelestarian ekosistem Mangrove.
-> <br>
 > ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+> <br>
+> Website edukasi interaktif untuk kampanye lingkungan hidup dan pelestarian ekosistem Mangrove.
 
 <br>
 
 > **4. [Setarain (UI/UX)](https://setarain.netlify.app/)**
 >
-> Desain antarmuka aplikasi donasi inklusif untuk menghubungkan donatur dengan komunitas penyandang disabilitas.
-> <br>
 > ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+> <br>
+> Desain antarmuka aplikasi donasi inklusif untuk menghubungkan donatur dengan komunitas penyandang disabilitas.
 
 ---
 
