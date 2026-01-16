@@ -74,6 +74,8 @@ Now, I combine these skills to build web applications that are robust, data-driv
 
 > **1. [Personal Portfolio Website](https://farizwebdev.netlify.app/)**
 >
+> 👨‍💻 **Role:** Front-End Developer
+> <br>
 > ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
 > <br>
 > Website portofolio personal yang interaktif. Menampilkan showcase projek dan layanan jasa dengan desain modern serta animasi yang halus (**Framer Motion**).
@@ -82,6 +84,8 @@ Now, I combine these skills to build web applications that are robust, data-driv
 
 > **2. [Laundry Sepatu Fariz](https://sepatufariz.netlify.app/)**
 >
+> 👨‍💻 **Role:** Front-End Developer
+> <br>
 > ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 > <br>
 > Platform layanan cuci sepatu digital. Pelanggan bisa **Lacak Resi (Tracking)** status cucian secara *real-time*, booking via WhatsApp, dan cek lokasi via Maps.
@@ -90,6 +94,8 @@ Now, I combine these skills to build web applications that are robust, data-driv
 
 > **3. [Al-Quran Sentiment Analysis](https://github.com/farizwebdev/Day5-dicoding-Analisis_Sentimen)**
 >
+> 📊 **Role:** Data Scientist
+> <br>
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 > <br>
 > Proyek Data Science *End-to-End* untuk klasifikasi ulasan aplikasi. Menggunakan algoritma **Logistic Regression** dengan **Akurasi 93%**.
@@ -98,10 +104,11 @@ Now, I combine these skills to build web applications that are robust, data-driv
 
 > **4. [Setarain (UI/UX)](https://setarain.netlify.app/)**
 >
+> 🎨 **Role:** UI/UX Designer
+> <br>
 > ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 > <br>
 > Desain antarmuka aplikasi donasi inklusif untuk menghubungkan donatur dengan komunitas penyandang disabilitas.
-
 ---
 
 ## GitHub Stats
