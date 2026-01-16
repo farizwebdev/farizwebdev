@@ -70,12 +70,43 @@ Now, I combine these skills to build web applications that are robust, data-driv
 
 ## Featured Projects
 
-| Project | Role | Tech Stack | Description |
-| :--- | :---: | :---: | :--- |
-| **[Mangrovolution Edu](https://mangrovolution-edu.netlify.app/)** | Front-End | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | Educational platform raising awareness for mangrove ecosystems. |
-| **[Setarain](https://setarain.netlify.app/)** | UI/UX | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | Donation platform connecting donors with disabled communities. |
-| **[JogoAmal Digital](https://github.com/farizwebdev/jogoamaldigital)** | Full-Stack | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | Transparent financial management system for mosques. |
-| **[Al-Quran App Sentiment Analysis](https://github.com/farizwebdev/Day5-dicoding-Analisis_Sentimen)** | Data Scientist | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) | End-to-end ML project classifying app reviews using Scraping, TF-IDF, & Logistic Regression (**93% Accuracy**). |
+<br>
+
+**1. [Laundry Sepatu Fariz](https://sepatufariz.netlify.app/)** <br>
+*Modern Shoe Laundry Service Platform*
+<br>
+> Website layanan jasa cuci sepatu yang terintegrasi penuh dengan media sosial dan lokasi fisik. Membantu pelanggan memesan dan memantau status cucian dengan mudah.
+<br>
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+<br>
+✅ **Key Features:** Fitur Lacak Pesanan (Tracking), WhatsApp Booking Integration, Google Maps Embed, Instagram Profile Link.
+
+<br>
+
+**2. [Mangrovolution Edu](https://mangrovolution-edu.netlify.app/)** <br>
+*Environmental Education Platform*
+<br>
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+<br>
+Platform edukasi interaktif untuk meningkatkan kesadaran masyarakat tentang pentingnya ekosistem mangrove bagi lingkungan pesisir.
+
+<br>
+
+**3. [Al-Quran App Sentiment Analysis](https://github.com/farizwebdev/Day5-dicoding-Analisis_Sentimen)** <br>
+*Machine Learning / Data Science*
+<br>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+<br>
+Proyek End-to-end Machine Learning untuk mengklasifikasikan ulasan aplikasi Al-Quran. Menggunakan teknik Scraping, TF-IDF, & Logistic Regression dengan **Akurasi 93%**.
+
+<br>
+
+**4. [Setarain](https://setarain.netlify.app/)** <br>
+*UI/UX Design Project*
+<br>
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+<br>
+Platform donasi inklusif yang menghubungkan para donatur dengan komunitas penyandang disabilitas untuk menciptakan kesetaraan.
 
 ---
 
