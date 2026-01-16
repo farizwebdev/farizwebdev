@@ -72,57 +72,61 @@ Now, I combine these skills to build web applications that are robust, data-driv
 
 <br>
 
-<table border="0">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h3>Laundry Sepatu Fariz</h3>
-      <a href="https://sepatufariz.netlify.app/">Live Demo</a>
-      <br><br>
-      Platform layanan cuci sepatu modern. Pelanggan bisa booking via WA dan <b>Lacak Status Cucian (Tracking)</b> secara <i>real-time</i>.
-      <br><br>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-      <br><br>
-      ✅ <b>Fitur:</b> Tracking Resi, WA Gateway, Maps Integration.
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h3>Mangrovolution Edu</h3>
-      <a href="https://mangrovolution-edu.netlify.app/">Live Demo</a>
-      <br><br>
-      Website edukasi interaktif untuk kampanye pelestarian ekosistem Mangrove dengan tampilan visual yang menarik.
-      <br><br>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <br><br>
-      ✅ <b>Fitur:</b> Interactive UI, Educational Content.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h3>Al-Quran Sentiment</h3>
-      <a href="https://github.com/farizwebdev/Day5-dicoding-Analisis_Sentimen">Repo Link</a>
-      <br><br>
-      Proyek Machine Learning (End-to-End) untuk klasifikasi ulasan aplikasi Al-Quran secara otomatis.
-      <br><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-      <br><br>
-      🚀 <b>Akurasi Model: 93%</b>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h3>Setarain (UI/UX)</h3>
-      <a href="https://setarain.netlify.app/">Prototype Link</a>
-      <br><br>
-      Desain antarmuka aplikasi donasi inklusif yang menghubungkan donatur dengan teman disabilitas.
-      <br><br>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-      <br><br>
-      🎨 <b>Fokus:</b> User Experience & Accessibility.
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<h2>Laundry Sepatu Fariz</h2>
+<b>Modern Shoe Laundry Platform with Order Tracking</b>
+<br/><br/>
+<a href="https://sepatufariz.netlify.app/">Live Demo</a> • <a href="#">Repository</a>
+<br/><br/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<br/><br/>
+<p align="left">
+Website layanan cuci sepatu kekinian. Pelanggan tidak perlu login ribet, cukup masukkan nomor resi untuk <b>Lacak Status Cucian</b> (Real-time). Terintegrasi langsung dengan WhatsApp untuk pemesanan dan Google Maps untuk lokasi.
+</p>
+<p align="left">
+✅ <b>Fitur Utama:</b> Tracking System, WhatsApp Gateway, Instagram Embed, Responsive Mobile UI.
+</p>
+
+<br/>
+<hr/>
+<br/>
+
+<h2>Al-Quran App Sentiment Analysis</h2>
+<b>End-to-End Machine Learning Project</b>
+<br/><br/>
+<a href="https://github.com/farizwebdev/Day5-dicoding-Analisis_Sentimen">View Repository</a>
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<br/><br/>
+<p align="left">
+Sistem cerdas untuk menganalisis opini pengguna aplikasi Al-Quran secara otomatis. Menggunakan teknik <i>Scraping</i> data ulasan, pembersihan teks, dan algoritma Logistic Regression.
+</p>
+<p align="left">
+🚀 <b>Highlight:</b> Mencapai Akurasi Model <b>93%</b> (High Accuracy).
+</p>
+
+<br/>
+<hr/>
+<br/>
+
+<h2>Mangrovolution Edu</h2>
+<b>Environmental Awareness Platform</b>
+<br/><br/>
+<a href="https://mangrovolution-edu.netlify.app/">Live Demo</a>
+<br/><br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<br/><br/>
+<p align="left">
+Platform edukasi interaktif untuk kampanye pelestarian ekosistem Mangrove. Didesain dengan antarmuka yang ramah pengguna untuk meningkatkan kesadaran lingkungan.
+</p>
+
+</div>
 
 ---
 
