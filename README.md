@@ -42,7 +42,7 @@ Now, I combine these skills to build web applications that are robust, data-driv
 <img src="https://skillicons.dev/icons?i=js,ts,php,python&theme=light" />
 
 **Frameworks & Libraries**<br>
-<img src="https://skillicons.dev/icons?i=react,vue,nextjs,vite,tailwind,bootstrap,jquery&theme=light" />
+<img src="https://skillicons.dev/icons?i=react,vue,nextjs,vite,tailwind,bootstrap,pytorch,pandas&theme=light" />
 
 **Tools & Platforms**<br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,mysql,supabase&theme=light" />
