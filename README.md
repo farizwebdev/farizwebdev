@@ -72,12 +72,28 @@ Now, I combine these skills to build web applications that are robust, data-driv
 
 <br>
 
-| Project & Role | Tech Stack | Description & Features |
-| :--- | :--- | :--- |
-| **[Laundry Sepatu Fariz](https://sepatufariz.netlify.app/)**<br>*(Front-End Dev)* | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | **Modern Laundry Service Platform**<br>Website layanan laundry dengan fitur unggulan:<br>✅ **Order Tracking** (Lacak Pesanan)<br>✅ WhatsApp Booking Integration<br>✅ Google Maps & Instagram Embed |
-| **[Mangrovolution Edu](https://mangrovolution-edu.netlify.app/)**<br>*(Front-End Dev)* | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | **Environmental Education Platform**<br>Platform edukasi interaktif untuk meningkatkan kesadaran masyarakat tentang pentingnya ekosistem mangrove. |
-| **[Setarain](https://setarain.netlify.app/)**<br>*(UI/UX Designer)* | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | **Donation Platform UI**<br>Desain aplikasi donasi inklusif yang menghubungkan donatur dengan komunitas penyandang disabilitas. |
-| **[Al-Quran Sentiment](https://github.com/farizwebdev/Day5-dicoding-Analisis_Sentimen)**<br>*(Data Scientist)* | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) | **Machine Learning Project**<br>Klasifikasi ulasan aplikasi Al-Quran menggunakan TF-IDF & Logistic Regression.<br>🚀 **Akurasi Model: 93%** |
+**1. [Laundry Sepatu Fariz](https://sepatufariz.netlify.app/)**
+> *Modern Shoe Laundry Service Platform*
+* **Tech:** ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+* **Features:** Sistem Lacak Pesanan (Tracking), Booking via WhatsApp, Integrasi Maps & IG.
+* **Role:** Front-End Developer
+
+**2. [Mangrovolution Edu](https://mangrovolution-edu.netlify.app/)**
+> *Environmental Education Platform*
+* **Tech:** ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+* **Desc:** Edukasi interaktif tentang ekosistem mangrove.
+* **Role:** Front-End Developer
+
+**3. [Al-Quran App Sentiment Analysis](https://github.com/farizwebdev/Day5-dicoding-Analisis_Sentimen)**
+> *End-to-end Machine Learning Project*
+* **Tech:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+* **Result:** Klasifikasi sentimen ulasan aplikasi dengan **Akurasi 93%**.
+* **Role:** Data Scientist
+
+**4. [Setarain](https://setarain.netlify.app/)**
+> *Inclusive Donation Platform*
+* **Tool:** ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+* **Role:** UI/UX Designer
 
 ---
 
