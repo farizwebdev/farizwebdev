@@ -102,7 +102,7 @@ Now, I combine these skills to build web applications that are robust, data-driv
 
 <br>
 
-> **4. [Setarain (UI/UX)](https://setarain.netlify.app/)**
+> **4. [Platform Setarain](https://setarain.netlify.app/)**
 >
 > > **Role:** UI/UX Designer
 >
