@@ -74,7 +74,7 @@ Now, I combine these skills to build web applications that are robust, data-driv
 
 > **1. [Personal Portfolio Website](https://farizwebdev.netlify.app/)**
 > 
-> > **Role:** Front-End Developer
+> > **Role:** Front-End Web Developer
 > 
 >   ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
 > 
@@ -84,7 +84,7 @@ Now, I combine these skills to build web applications that are robust, data-driv
 
 > **2. [Laundry Sepatu Fariz](https://sepatufariz.netlify.app/)**
 >
-> > **Role:** Front-End Developer
+> > **Role:** Front-End Web Developer
 > 
 >   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 > 
