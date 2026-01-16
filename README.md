@@ -75,8 +75,8 @@ Now, I combine these skills to build web applications that are robust, data-driv
 > **1. [Personal Portfolio Website](https://farizwebdev.netlify.app/)**
 > 
 > > **Role:** Front-End Developer
-> <br>
-> ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
+> 
+> > ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
 > 
 > Website portofolio personal yang interaktif. Menampilkan showcase projek dan layanan jasa dengan desain modern serta animasi yang halus (**Framer Motion**).
 
