@@ -38,32 +38,43 @@ Now, I combine these skills to build web applications that are robust, data-driv
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<h3>Languages</h3>
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="40"><br>JavaScript</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ts" width="40"><br>TypeScript</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=php" width="40"><br>PHP</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="40"><br>Python</td>
+  </tr>
+</table>
 
-**Frameworks & Libraries**
-<br/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<h3>Frameworks & Libraries</h3>
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" width="40"><br>React</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vue" width="40"><br>Vue</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nextjs" width="40"><br>NextJS</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vite" width="40"><br>Vite</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind" width="40"><br>Tailwind</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=bootstrap" width="40"><br>Bootstrap</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=pytorch" width="40"><br>PyTorch</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=pandas" width="40"><br>Pandas</td>
+  </tr>
+</table>
 
-**Tools & Platforms**
-<br/>
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
+<h3>Tools</h3>
+<table>
+  <tr>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=git" width="35"><br>Git</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=github" width="35"><br>GitHub</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=vscode" width="35"><br>VSCode</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=figma" width="35"><br>Figma</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=mysql" width="35"><br>MySQL</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=supabase" width="35"><br>Supabase</td>
+  </tr>
+</table>
 
 </div>
 
