@@ -72,28 +72,57 @@ Now, I combine these skills to build web applications that are robust, data-driv
 
 <br>
 
-**1. [Laundry Sepatu Fariz](https://sepatufariz.netlify.app/)**
-> *Modern Shoe Laundry Service Platform*
-* **Tech:** ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-* **Features:** Sistem Lacak Pesanan (Tracking), Booking via WhatsApp, Integrasi Maps & IG.
-* **Role:** Front-End Developer
-
-**2. [Mangrovolution Edu](https://mangrovolution-edu.netlify.app/)**
-> *Environmental Education Platform*
-* **Tech:** ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-* **Desc:** Edukasi interaktif tentang ekosistem mangrove.
-* **Role:** Front-End Developer
-
-**3. [Al-Quran App Sentiment Analysis](https://github.com/farizwebdev/Day5-dicoding-Analisis_Sentimen)**
-> *End-to-end Machine Learning Project*
-* **Tech:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-* **Result:** Klasifikasi sentimen ulasan aplikasi dengan **Akurasi 93%**.
-* **Role:** Data Scientist
-
-**4. [Setarain](https://setarain.netlify.app/)**
-> *Inclusive Donation Platform*
-* **Tool:** ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-* **Role:** UI/UX Designer
+<table border="0">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>Laundry Sepatu Fariz</h3>
+      <a href="https://sepatufariz.netlify.app/">Live Demo</a>
+      <br><br>
+      Platform layanan cuci sepatu modern. Pelanggan bisa booking via WA dan <b>Lacak Status Cucian (Tracking)</b> secara <i>real-time</i>.
+      <br><br>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      <br><br>
+      ✅ <b>Fitur:</b> Tracking Resi, WA Gateway, Maps Integration.
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>Mangrovolution Edu</h3>
+      <a href="https://mangrovolution-edu.netlify.app/">Live Demo</a>
+      <br><br>
+      Website edukasi interaktif untuk kampanye pelestarian ekosistem Mangrove dengan tampilan visual yang menarik.
+      <br><br>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <br><br>
+      ✅ <b>Fitur:</b> Interactive UI, Educational Content.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>Al-Quran Sentiment</h3>
+      <a href="https://github.com/farizwebdev/Day5-dicoding-Analisis_Sentimen">Repo Link</a>
+      <br><br>
+      Proyek Machine Learning (End-to-End) untuk klasifikasi ulasan aplikasi Al-Quran secara otomatis.
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+      <br><br>
+      🚀 <b>Akurasi Model: 93%</b>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>Setarain (UI/UX)</h3>
+      <a href="https://setarain.netlify.app/">Prototype Link</a>
+      <br><br>
+      Desain antarmuka aplikasi donasi inklusif yang menghubungkan donatur dengan teman disabilitas.
+      <br><br>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+      <br><br>
+      🎨 <b>Fokus:</b> User Experience & Accessibility.
+    </td>
+  </tr>
+</table>
 
 ---
 
