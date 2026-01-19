@@ -72,7 +72,17 @@ Now, I combine these skills to build web applications that are robust, data-driv
 
 <br>
 
-> **1. [Personal Portfolio Website](https://farizwebdev.netlify.app/)**
+> **1. [Platform TradeFariz](https://tradefariz.netlify.app/)**
+>
+> > **Role:** Fullstack Web Developer & AI Integrator
+>
+>   ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Groq AI](https://img.shields.io/badge/Groq_AI-F55036?style=flat-square&logo=openai&logoColor=white)
+> 
+> Asisten trading berbasis AI yang terintegrasi secara real-time dengan database Supabase. Menggunakan model Llama 3.3 (via Groq) untuk menganalisis riwayat transaksi, manajemen risiko, dan memberikan insight strategi trading yang dipersonalisasi bagi pengguna.
+
+<br>
+
+> **2. [Personal Portfolio Website](https://farizwebdev.netlify.app/)**
 > 
 > > **Role:** Front-End Web Developer
 > 
@@ -82,7 +92,7 @@ Now, I combine these skills to build web applications that are robust, data-driv
 
 <br>
 
-> **2. [Laundry Sepatu Fariz](https://sepatufariz.netlify.app/)**
+> **3. [Laundry Sepatu Fariz](https://sepatufariz.netlify.app/)**
 >
 > > **Role:** Front-End Web Developer
 > 
@@ -92,7 +102,7 @@ Now, I combine these skills to build web applications that are robust, data-driv
 
 <br>
 
-> **3. [Al-Quran Sentiment Analysis](https://github.com/farizwebdev/Day5-dicoding-Analisis_Sentimen)**
+> **4. [Al-Quran Sentiment Analysis](https://github.com/farizwebdev/Day5-dicoding-Analisis_Sentimen)**
 >
 > > **Role:** Data Scientist
 > 
@@ -100,15 +110,6 @@ Now, I combine these skills to build web applications that are robust, data-driv
 > 
 > Proyek Data Science *End-to-End* untuk klasifikasi ulasan aplikasi. Menggunakan algoritma **Logistic Regression** dengan **Akurasi 93%**.
 
-<br>
-
-> **4. [Platform Setarain](https://setarain.netlify.app/)**
->
-> > **Role:** UI/UX Designer
->
->   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-> 
-> Desain antarmuka aplikasi donasi inklusif untuk menghubungkan donatur dengan komunitas penyandang disabilitas.
 ---
 
 ## GitHub Stats
