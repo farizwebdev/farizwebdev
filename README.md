@@ -74,7 +74,7 @@ Now, I combine these skills to build web applications that are robust, data-driv
 
 > **1. [Platform TradeFariz](https://tradefariz.netlify.app/)**
 >
-> > **Role:** Fullstack Web Developer & AI Integrator
+> > **Role:** Fullstack Web Developer & AI Integration
 >
 >   ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Groq AI](https://img.shields.io/badge/Groq_AI-F55036?style=flat-square&logo=openai&logoColor=white)
 > 
