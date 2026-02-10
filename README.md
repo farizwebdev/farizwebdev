@@ -82,7 +82,7 @@ Now, I combine these skills to build web applications that are robust, data-driv
 
 <br>
 
-> **2. [AsahLogika: UMKM Digital Solutions](https://farizwebdev.netlify.app/)**
+> **2. [AsahLogika: UMKM Digital Solutions](https://logika-fariz.netlify.app/)**
 > 
 > > **Role:** Fullstack Web Developer
 > 
