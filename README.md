@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0:FF0000,100:E60000&height=200&section=header&text=Fariz%20Husain%20Albar&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Front%20End%20Web%20Developer%20||%20Data%20Scientist%20Enthusiast&descFontSize=20&descAlignY=65" alt="Header Soft Subtitle" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0:FF0000,100:E60000&height=200&section=header&text=Fariz%20Husain%20Albar&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Web%20Developer%20||%20Data%20Scientist%20Enthusiast&descFontSize=20&descAlignY=65" alt="Header Soft Subtitle" width="100%"/>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="500" height="1" style="filter: invert(1);">
 
@@ -82,13 +82,13 @@ Now, I combine these skills to build web applications that are robust, data-driv
 
 <br>
 
-> **2. [Personal Portfolio Website](https://farizwebdev.netlify.app/)**
+> **2. [AsahLogika: UMKM Digital Solutions](https://farizwebdev.netlify.app/)**
 > 
-> > **Role:** Front-End Web Developer
+> > **Role:** Full-Stack Web Developer
 > 
->   ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
+>   ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 > 
-> Website portofolio personal yang interaktif. Menampilkan showcase projek dan layanan jasa dengan desain modern serta animasi yang halus (**Framer Motion**).
+> Sebuah platform gamified learning berbasis web yang dirancang untuk melatih logika pemrograman melalui studi kasus digitalisasi UMKM di Indonesia. Proyek ini menggabungkan pengalaman belajar interaktif dengan sistem manajemen agensi IT profesional.
 
 <br>
 
