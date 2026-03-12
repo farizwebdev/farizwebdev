@@ -72,7 +72,23 @@ Now, I combine these skills to build web applications that are robust, data-driv
 
 <br>
 
-> **1. [Platform TradeFariz](https://tradefariz.netlify.app/)**
+> **1. [K.Zuma Textile Ecommerce](https://kzumatextile.netlify.app/)**
+>
+> > **Role:** Fullstack Web Developer at Zuma Textile Store
+> 
+>   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+> 
+> Platform e-commerce untuk toko kain premium Zuma Textile. Fitur:
+    - Katalog produk dengan filter & pencarian
+    - Sistem autentikasi user & admin
+    - Keranjang belanja & checkout
+    - Dashboard admin untuk manajemen produk & pesanan
+    - Upload gambar dengan Cloudinary
+    - Database PostgreSQL dengan Prisma ORM
+
+<br>
+
+> **2. [Platform TradeFariz](https://tradefariz.netlify.app/)**
 >
 > > **Role:** Fullstack Web Developer & AI Integration
 >
@@ -82,23 +98,13 @@ Now, I combine these skills to build web applications that are robust, data-driv
 
 <br>
 
-> **2. [FRIZCODE: UMKM Digital Solutions](https://frizcode.netlify.app/)**
+> **3. [FRIZCODE: UMKM Digital Solutions](https://frizcode.netlify.app/)**
 > 
 > > **Role:** Fullstack Web Developer
 > 
 >   ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 > 
 > Sebuah platform gamified learning berbasis web yang dirancang untuk melatih logika pemrograman melalui studi kasus digitalisasi UMKM di Indonesia. Proyek ini menggabungkan pengalaman belajar interaktif dengan sistem manajemen agensi IT profesional.
-
-<br>
-
-> **3. [Laundry Sepatu Fariz](https://sepatufariz.netlify.app/)**
->
-> > **Role:** Front-End Web Developer
-> 
->   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-> 
-> Platform layanan cuci sepatu digital. Pelanggan bisa **Lacak Resi (Tracking)** status cucian secara *real-time*, booking via WhatsApp, dan cek lokasi via Maps.
 
 <br>
 
