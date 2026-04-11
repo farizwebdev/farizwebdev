@@ -98,13 +98,13 @@ Now, I combine these skills to build web applications that are robust, data-driv
 
 <br>
 
-> **3. [FRIZCODE: UMKM Digital Solutions](https://frizcode.netlify.app/)**
+> **3. [Circula Jogja](https://circulajogja.netlify.app/)**
 > 
-> > **Role:** Fullstack Web Developer
+> > **Role:** AI Mobile App
 > 
->   ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+> ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Llama 3](https://img.shields.io/badge/Llama_3_AI-0466C8?style=flat-square&logo=meta&logoColor=white)
 > 
-> Sebuah platform gamified learning berbasis web yang dirancang untuk melatih logika pemrograman melalui studi kasus digitalisasi UMKM di Indonesia. Proyek ini menggabungkan pengalaman belajar interaktif dengan sistem manajemen agensi IT profesional.
+> Sebuah platform asisten dapur cerdas yang dirancang untuk mengurangi *food waste* di kalangan mahasiswa kos Yogyakarta. Proyek ini menggabungkan manajemen inventaris bahan makanan, *smart recipe aggregator* berbasis AI (Llama 3), dan sistem gamifikasi (O2O) yang memberikan *reward* nyata berupa diskon makan di UMKM lokal.
 
 <br>
 
