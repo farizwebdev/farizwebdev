@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0:FF0000,100:E60000&height=200&section=header&text=Fariz%20Husain%20Albar&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Web%20Developer%20||%20Data%20Scientist%20Enthusiast&descFontSize=20&descAlignY=65" alt="Header Soft Subtitle" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0:FF0000,100:E60000&height=200&section=header&text=Fariz%20Husain%20Albar&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20||%20Data%20Scientist%20Enthusiast&descFontSize=20&descAlignY=65" alt="Header Soft Subtitle" width="100%"/>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="500" height="1" style="filter: invert(1);">
 
@@ -20,7 +20,7 @@
 
 Hii there! I'm **Fariz**, an Informatics student based in **Yogyakarta, Indonesia**. 👋
 
-Currently, I'm shifting my gears to become a **Full-Stack Web Developer**. I believe that building a great website isn't just about writing code it's about understanding the **users** (UI/UX) and the **data** behind it.
+Currently, I'm shifting my gears to become a **Software Engineer**. I believe that building a great website isn't just about writing code it's about understanding the **users** (UI/UX) and the **data** behind it.
 
 I love exploring different fields to strengthen my developer intuition:
 * **Design Sense:** Validated by winning the **Website Development Competition at IOFEST 2025** (Universitas Tarumanagara).
