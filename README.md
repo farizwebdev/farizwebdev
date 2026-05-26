@@ -98,13 +98,13 @@ Now, I combine these skills to build web applications that are robust, data-driv
 
 <br>
 
-> **3. [Circula Jogja](https://circulajogja.netlify.app/)**
+> **3. [SisaPintar](https://sisapintar.netlify.app/)**
 > 
 > > **Role:** AI Mobile App
 > 
 > ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Llama 3](https://img.shields.io/badge/Llama_3_AI-0466C8?style=flat-square&logo=meta&logoColor=white)
 > 
-> Sebuah platform asisten dapur cerdas yang dirancang untuk mengurangi *food waste* di kalangan mahasiswa kos Yogyakarta. Proyek ini menggabungkan manajemen inventaris bahan makanan, *smart recipe aggregator* berbasis AI (Llama 3), dan sistem gamifikasi (O2O) yang memberikan *reward* nyata berupa diskon makan di UMKM lokal.
+> Sebuah platform asisten dapur cerdas yang dirancang untuk mengurangi *food waste* di kalangan mahasiswa kos Yogyakarta secara real-time. Proyek ini menggabungkan manajemen inventaris bahan makanan, *smart recipe aggregator* berbasis AI (Llama 3), dan mendapatkan resep dari Koki AI lewat YouTube Shorts, dan berbagi inspirasi anti food waste di Komunitas.
 
 <br>
 
