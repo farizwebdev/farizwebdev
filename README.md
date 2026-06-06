@@ -72,7 +72,7 @@ Now, I combine these skills to build web applications that are robust, data-driv
 
 <br>
 
-> **1. [Mangrovolution](https://mangrovolution-edu.netlify.app/)** *(silakan ganti tanda '#' dengan link deploy jika sudah ada)*
+> **1. [Mangrovolution](https://mangrovolution-edu.netlify.app/)**
 >
 > > **Role:** Fullstack Web Developer at Mangrovolution
 > 
