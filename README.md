@@ -72,7 +72,18 @@ Now, I combine these skills to build web applications that are robust, data-driv
 
 <br>
 
-> **1. [K.Zuma Textile Ecommerce](https://kzumatextile.netlify.app/)**
+> **1. [Mangrovolution](https://mangrovolution-edu.netlify.app/)** *(silakan ganti tanda '#' dengan link deploy jika sudah ada)*
+>
+> > **Role:** Fullstack Web Developer at Mangrovolution
+> 
+>   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+>
+> Website ini adalah sebuah wadah komunitas digital yang berfokus pada kegiatan pelestarian alam, khususnya penanaman mangrove di daerah pesisir. Melalui platform ini, masyarakat luas bisa dengan mudah mencari informasi dan mendaftar berbagai program relawan (volunteer) yang sedang dibuka. Tidak hanya sebatas pendaftaran, setiap relawan juga memiliki halaman dashboard pribadi masing-masing. Di sana, mereka bisa memantau riwayat kegiatan apa saja yang sudah diikuti, membaca artikel edukasi lingkungan, hingga mengunduh e-Sertifikat apresiasi secara otomatis setelah kegiatan selesai dilaksanakan.
+
+
+<br>
+
+> **2. [K.Zuma Textile Ecommerce](https://kzumatextile.netlify.app/)**
 >
 > > **Role:** Fullstack Web Developer at Zuma Textile Store
 > 
@@ -85,16 +96,6 @@ Now, I combine these skills to build web applications that are robust, data-driv
     - Dashboard admin untuk manajemen produk & pesanan
     - Upload gambar dengan Cloudinary
     - Database PostgreSQL dengan Prisma ORM
-
-<br>
-
-> **2. [Platform TradeFariz](https://tradefariz.netlify.app/)**
->
-> > **Role:** Fullstack Web Developer & AI Integration
->
->   ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Groq AI](https://img.shields.io/badge/Groq_AI-F55036?style=flat-square&logo=openai&logoColor=white)
-> 
-> Asisten trading berbasis AI yang terintegrasi secara real-time dengan database Supabase. Menggunakan model Llama 3.3 (via Groq) untuk menganalisis riwayat transaksi, manajemen risiko, dan memberikan insight strategi trading yang dipersonalisasi bagi pengguna.
 
 <br>
 
