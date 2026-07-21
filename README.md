@@ -119,18 +119,6 @@ Now, I combine these skills to build web applications that are robust, data-driv
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farizwebdev&theme=radical" alt="Profile Details" width="90%">
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farizwebdev&theme=radical" width="45%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farizwebdev&theme=radical" width="45%">
-</p>
-
----
-
 ## Let's Connect
 
 <div align="center">
